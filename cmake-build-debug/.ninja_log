@@ -1,0 +1,25 @@
+# ninja log v5
+0	306	7199389448657751	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+307	421	7199389449773765	while_loop.exe	adefed86df51cd2e
+2	306	7199389945016658	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+307	392	7199389945830857	while_loop.exe	adefed86df51cd2e
+3	299	7199390646241099	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+300	372	7199390646922798	while_loop.exe	adefed86df51cd2e
+2	285	7199390855634757	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+285	361	7199390856370355	while_loop.exe	adefed86df51cd2e
+3	294	7199391668737447	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+294	379	7199391669556948	while_loop.exe	adefed86df51cd2e
+3	300	7199391996452555	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+301	374	7199391997149850	while_loop.exe	adefed86df51cd2e
+2	289	7199392649300216	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+289	372	7199392650092719	while_loop.exe	adefed86df51cd2e
+3	288	7199393192246112	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+289	365	7199393192976963	while_loop.exe	adefed86df51cd2e
+2	305	7199393265237890	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+305	390	7199393266063966	while_loop.exe	adefed86df51cd2e
+3	323	7199393529341141	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+324	397	7199393530080214	while_loop.exe	adefed86df51cd2e
+3	312	7199396074278476	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+312	394	7199396075063858	while_loop.exe	adefed86df51cd2e
+2	328	7199397704337079	CMakeFiles/while_loop.dir/main.cpp.obj	b0d3c6440047cba3
+329	423	7199397705257761	while_loop.exe	adefed86df51cd2e
